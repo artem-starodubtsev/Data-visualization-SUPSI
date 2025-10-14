@@ -1,0 +1,6 @@
+Title: Windows versions through the years
+Author: Artem Starodubtsev
+Publication date: 2025-10-15
+Dataset link: ['https://store.steampowered.com/hwsurvey/', 'https://github.com/myagues/steam-hss-data']
+Aspects investigated: Trends on gamer's use of specific Windows version and how support deadlines affected (if at all) this ratio
+Variables encoded: WinVer share%/ratio by date; annotated event timestamps.

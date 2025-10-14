@@ -1,0 +1,6 @@
+Title: Gamer\'s CPU choice
+Author: Artem Starodubtsev
+Publication date: 2025-10-15
+Dataset link: ['https://store.steampowered.com/hwsurvey/', 'https://github.com/myagues/steam-hss-data']
+Aspects investigated: AMD vs Intel gamer share across time interval + some crucial events that affected this trend
+Variables encoded: CPU share%/ratio by date; annotated event timestamps.
